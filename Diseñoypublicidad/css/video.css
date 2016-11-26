@@ -1,0 +1,17 @@
+.video{
+margin-top: -50px;
+width: 100%;
+height: 500px;
+
+}
+
+video{
+	background: none;
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+	z-index: -1;
+
+	
+}
+

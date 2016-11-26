@@ -1,0 +1,15 @@
+#logos{
+	width: 100%;
+	height: 100px;
+	background: none;
+	position: absolute;
+}
+
+ img{
+	width: 230px;
+	height: 170px;
+	background: none;
+	margin-top: -450px;
+	position: absolute;
+
+}
